@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-wss",
+  "version": "1.0.1",
+  "description": "",
+  "bin": {
+    "npm-lab": "./bin/npm-lab-wss.js"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senwong/npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senwong/npm-lab/issues"
+  },
+  "homepage": "https://github.com/senwong/npm-lab#readme"
+}
